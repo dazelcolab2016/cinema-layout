@@ -55,6 +55,7 @@
     font-size: 12px;
 }
 .but-det{
+    
     border-radius: 7px;
     Color:#fff;
     display: block;
@@ -63,7 +64,20 @@
     height: 48px;
     margin: 20px;
     margin-left: 0;
+    
         
+}
+.but-det-1{
+    
+    border-radius: 7px;
+    background-color: #bb7b29;
+    color:#fff;
+    width: 180px;
+    height: 48px;
+    position: relative;
+    top: 48px;
+    right: 198px;
+  
 }
 .esp-inf tr th {
     padding: 5px;
@@ -109,3 +123,11 @@
 }
 
 
+.dsct-1{
+    top: 60px;
+    position: relative;
+}
+.but-det-c{
+    background-color:#C79355;
+    
+}

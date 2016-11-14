@@ -1,0 +1,103 @@
+.search_box input{
+    padding: 7px;
+    font-size: 15px;
+    width: 200px;
+    height: 40px;
+    vertical-align: middle;
+    margin-left: 100px;
+    
+}
+.search_box .fa-search{
+    margin-left: -25px;
+    
+}
+.estrenos{
+    background: #FFA500;
+}
+.estrenos img{
+  width: 180px;
+  height: 250px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+     
+}
+
+.cartelera img{
+    width: 100%;
+}
+.mov-the{
+    float:right;
+    margin-right: 280px;
+    margin-top: 40px;
+    font-size: 12px;
+}
+.hero .banner {
+    background:#333 url(../img/banner.jpg)no-repeat;
+    background-size: contain;    
+}
+.move-info{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.text-bh{
+    font-family: FontAwesome,sans-serif;
+    color: aliceblue;
+    font-size: 12px;
+}
+.but-det{
+    border-radius: 7px;
+    Color:#fff;
+    display: block;
+    background: #FFA500;
+    width: 180px;
+    height: 48px;
+    margin: 20px;
+    margin-left: 0;
+        
+}
+.esp-inf tr th {
+    padding: 5px;
+ 
+}
+.all-age{
+    border:3px solid seagreen;
+    border-radius: 7px;
+    text-align: center;
+    color: seagreen;
+    width: 100px;
+    height: 45px;
+    padding: 8px;
+    padding-bottom: 2px;
+    
+}
+
+.esp-inf tr td {  
+    margin-left: 10px;
+    padding-left: 90px;;
+    text-align: left;
+    color: aliceblue;
+}
+
+.contenido{
+    font-family: FontAwesome,sans-serif;
+    margin: 50px;
+}
+.contenido p{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.contenido h4{
+    font-size: 14px;
+    margin-bottom: 40px;
+    border-bottom: 2.3px rgba(192,192,192,0.77) solid;
+    padding-bottom: 30px;
+}
+.contenido small{
+    margin-bottom: 20px;
+    text-align: left;
+    display: block;
+    width: 50%;
+}
+
+

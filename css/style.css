@@ -9,7 +9,7 @@
 }
 .search_box .fa-search{
     margin-left: -25px;
-    
+/*-------------------------eestrenos*/    
 }
 .estrenos{
     background: #FFA500;
@@ -31,9 +31,18 @@
     margin-top: 40px;
     font-size: 12px;
 }
+/*-------------------------Hero*/ 
 .hero .banner {
     background:#333 url(../img/banner.jpg)no-repeat;
     background-size: contain;    
+}
+.hero div img{
+    float:right;
+    width: 60px;
+    height: 60px;
+    margin-right:530px;
+    margin-top: 172px;
+    
 }
 .move-info{
     padding-top: 20px;
@@ -78,7 +87,7 @@
     text-align: left;
     color: aliceblue;
 }
-
+/*-------------------------Contenido*/ 
 .contenido{
     font-family: FontAwesome,sans-serif;
     margin: 50px;
